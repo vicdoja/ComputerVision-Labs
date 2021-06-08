@@ -130,3 +130,7 @@ dmypy.json
 
 # MISC
 saved_models/
+*.npy
+*.tgz
+*/test/
+*/train/
